@@ -8,7 +8,7 @@ Download <a href="https://docs.docker.com/desktop/" target="_blank">Docker Deskt
 <a href="https://youtube.com/shorts/YWUvD6qe56g"><img src="https://github.com/user-attachments/assets/fa2fe923-4622-4e4d-9e01-a338e77afbc1" width="600px"></a>
 
 ## Text Instructions
-1. clone this repository using WSL2 with
+1. clone this repository using WSL2 with<br>
 ```git clone https://github.com/MariyaSha/chatbot_qwen.git```
 3. navigate there with
 ```cd chatbot_qwen```
