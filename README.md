@@ -1,6 +1,8 @@
 # chatbot_qwen
 Create a Better Chatbot with Qwen
 
+<img src="https://github.com/user-attachments/assets/fa2fe923-4622-4e4d-9e01-a338e77afbc1" width="600px">
+
 ## Requirements
 Download <a href="https://docs.docker.com/desktop/" target="_blank">Docker Desktop</a> and make sure the engine is running.
 
