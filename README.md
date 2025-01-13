@@ -10,11 +10,11 @@ Download <a href="https://docs.docker.com/desktop/" target="_blank">Docker Deskt
 ## Text Instructions
 1. clone this repository using WSL2 with<br>
 ```git clone https://github.com/MariyaSha/chatbot_qwen.git```
-3. navigate there with
+3. navigate there with<br>
 ```cd chatbot_qwen```
-5. build Docker image with
+5. build Docker image with<br>
 ```docker build -t chatbot .```
-7. run Docker container with
+7. run Docker container with<br>
 ```docker run -it --gpus=all chatbot```
 
 ## Credits
