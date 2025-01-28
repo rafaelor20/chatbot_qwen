@@ -1,5 +1,5 @@
 # chatbot_qwen
-Create a Better Chatbot with Qwen
+Create a Better Chatbot with Qwen + [Jan 27 2025 UPDATE] Deepseek 1.5B Qwen Chatbot
 
 ## Requirements
 Download <a href="https://docs.docker.com/desktop/" target="_blank">Docker Desktop</a> and make sure the engine is running.
@@ -17,6 +17,11 @@ Download <a href="https://docs.docker.com/desktop/" target="_blank">Docker Deskt
 7. run Docker container with<br>
 ```docker run -it --gpus=all chatbot```
 
+## Run Deepseek 1.5 Qwen Adaptation
+1. change in Dockerfile:
+   from ```COPY main.py ./```
+   to ```COPY main_deepseek.py ./```
+2. Repeat the Text Instructions from Above
+
 ## Credits
 this tutorial is using the <a href="https://github.com/QwenLM/Qwen" target="_blank">Qwen Large Language Model</a>.
-
