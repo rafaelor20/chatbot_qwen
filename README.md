@@ -7,7 +7,7 @@ Download <a href="https://docs.docker.com/desktop/" target="_blank">Docker Deskt
 ## Video Instructions
 <a href="https://youtube.com/shorts/YWUvD6qe56g"><img src="https://github.com/user-attachments/assets/fa2fe923-4622-4e4d-9e01-a338e77afbc1" width="600px"></a>
 
-## Text Instructions
+## Run Qwen Instructions
 1. clone this repository using WSL2 with<br>
 ```git clone https://github.com/MariyaSha/chatbot_qwen.git```
 3. navigate there with<br>
@@ -21,7 +21,7 @@ Download <a href="https://docs.docker.com/desktop/" target="_blank">Docker Deskt
 1. change in Dockerfile:
    from ```COPY main.py ./```
    to ```COPY main_deepseek.py ./```
-2. Repeat the Text Instructions from Above
+3. repeat the Run Qwen Instructions from Above
 
 ## Credits
 this tutorial is using the <a href="https://github.com/QwenLM/Qwen" target="_blank">Qwen Large Language Model</a>.
