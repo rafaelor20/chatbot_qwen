@@ -8,4 +8,5 @@ RUN pip install accelerate
 #COPY main.py ./
 COPY main_deepseek.py ./
 
-ENTRYPOINT python3 main.py
+#ENTRYPOINT python3 main.py
+ENTRYPOINT python3 main_deepseek.py
